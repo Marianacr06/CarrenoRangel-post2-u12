@@ -17,7 +17,13 @@ Pipeline CI/CD con GitHub Actions y Docker Hub.
 docker pull <usuario>/mi-spring-app:latest
 
 ## Evidencias
-Coloca las capturas en img/:
-- img/checkpoint1-secrets.png
-- img/checkpoint2-actions.png
-- img/checkpoint3-dockerhub.png
+Capturas ubicadas en img/:
+
+### Checkpoint 1 - Secrets
+![Secrets](img/Captura%20de%20Pantalla%202026-05-14%20a%20la%28s%29%204.25.43%20p.m..png)
+
+### Checkpoint 2 - Actions
+![Actions](img/Captura%20de%20Pantalla%202026-05-14%20a%20la%28s%29%204.26.47%20p.m..png)
+
+### Checkpoint 3 - Docker Hub
+![Docker Hub](img/Captura%20de%20Pantalla%202026-05-14%20a%20la%28s%29%204.31.35%20p.m..png)
