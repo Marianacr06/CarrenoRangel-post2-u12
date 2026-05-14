@@ -2,8 +2,6 @@
 
 Pipeline CI/CD con GitHub Actions y Docker Hub.
 
-![CI/CD Status](https://github.com/<usuario>/<repo>/actions/workflows/ci.yml/badge.svg)
-
 ## Secrets requeridos
 - DOCKERHUB_USERNAME
 - DOCKERHUB_TOKEN
@@ -19,10 +17,10 @@ docker pull <usuario>/mi-spring-app:latest
 ## Evidencias
 Capturas ubicadas en img/:
 
-### Checkpoint 1 - Secrets
+### Checkpoint 1 - ACTIONS
 ![Secrets](img/Captura%20de%20Pantalla%202026-05-14%20a%20la%28s%29%204.25.43%20p.m..png)
 
-### Checkpoint 2 - Actions
+### Checkpoint 2 - BUILD
 ![Actions](img/Captura%20de%20Pantalla%202026-05-14%20a%20la%28s%29%204.26.47%20p.m..png)
 
 ### Checkpoint 3 - Docker Hub
